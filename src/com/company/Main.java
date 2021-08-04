@@ -20,3 +20,8 @@ public class Main {
         return -1;
     }
 }
+/*  PUSH CHANGES TO GITHUB
+    git add .
+    git commit -m "insert a suitable message"
+    git push
+*/
